@@ -1,0 +1,14 @@
+2024-10-02 15:27
+01/05/2023
+15/05/2023
+15
+id,produto,quantidade,preço,data
+1,câmera digital,3,1200.00,01/05/2023
+2,tablet,5,900.00,02/05/2023
+3,impressora,4,500.00,03/05/2023
+4,carteira de couro,7,60.00,04/05/2023
+5,jaqueta,2,350.00,05/05/2023
+6,perfume,6,200.00,06/05/2023
+7,fritadeira sem óleo,3,400.00,07/05/2023
+8,liquidificador,8,120.00,08/05/2023
+9,cafeteira,5,180.00,09/05/2023

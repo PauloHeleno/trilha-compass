@@ -1,0 +1,14 @@
+2024-10-03 15:27
+01/06/2023
+13/06/2023
+13
+id,produto,quantidade,preço,data
+1,tapete,5,200.00,01/06/2023
+2,abajur,4,150.00,02/06/2023
+3,ventilador de teto,2,600.00,03/06/2023
+4,cobertor,7,80.00,04/06/2023
+5,porta-copos,20,12.00,05/06/2023
+6,travesseiro,10,40.00,06/06/2023
+7,frigobar,3,700.00,07/06/2023
+8,ar-condicionado,2,2500.00,08/06/2023
+9,panela de pressão,6,220.00,09/06/2023

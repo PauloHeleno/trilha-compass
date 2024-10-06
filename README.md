@@ -3,11 +3,11 @@
 
 ## Sobre mim 
 
-    ![eu](https://github.com/user-attachments/assets/7c83398d-5bd3-45ae-b649-32274a6faeec)
+![eu](https://github.com/user-attachments/assets/a3316447-4ff5-4f19-a5ed-04cff8c44807)
 
 
 🌍 *Localização*: Saloá PE, Brasil.  
-🎓 *Instituição de ensino*: IFPE Instituto Federal de Pernambuco.  
+🎓 *Instituição de ensino*: IFPE Garanhuns.  
 💻 *Curso*: Análise e Desenvolvimento de Sistemas.  
 📚 *Semestre Atual*: 4º Semestre.  
 💼 *Experiência*: nenhuma.         
@@ -17,4 +17,4 @@
 
 ## Sprints
 
-[Sprint 1](https://link-para-sprint-1.com)
+[Sprint 1](sprint_1/)
