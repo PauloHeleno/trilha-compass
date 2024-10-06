@@ -5,7 +5,6 @@
 
 ![eu](https://github.com/user-attachments/assets/a3316447-4ff5-4f19-a5ed-04cff8c44807)
 
-
 🌍 *Localização*: Saloá PE, Brasil.  
 🎓 *Instituição de ensino*: IFPE Garanhuns.  
 💻 *Curso*: Análise e Desenvolvimento de Sistemas.  
