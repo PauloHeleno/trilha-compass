@@ -17,3 +17,5 @@
 ## Sprints
 
 [Sprint 1](sprint_1/)
+
+[Sprint 2](sprint_2/)
