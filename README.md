@@ -19,3 +19,5 @@
 [Sprint 1](sprint_1/)
 
 [Sprint 2](sprint_2/)
+
+[Sprint 3](sprint_3/)
