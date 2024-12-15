@@ -25,3 +25,5 @@
 [Sprint 4](sprint_4/)
 
 [Sprint 5](sprint_5/)
+
+[Sprint 6](sprint_6/)
