@@ -63,4 +63,23 @@ Objetivo: Usar o Apache Spark, através do AWS Glue para integrar e padronizar d
 
 ![json no bucket](../evidencias/print_desafio/bucket_json.png)
 
+## Depois disso, executei um crawler para criar tabelas com os parquets
+
+![crawler](../evidencias/print_desafio/meu_crawler.png)
+
+![crawler executado](../evidencias/print_desafio/executando_crawler.png)
+
+## Agora os resultados nas tabelas
+
+## Tabela gerada do json
+
+![tabela json](../evidencias/print_desafio/tabela_gerada_json.png)
+
+## Tabela gerada do CSV
+
+![tabela csv](../evidencias/print_desafio/tabela_gerada_csv.png)
+
+
+
+
 
