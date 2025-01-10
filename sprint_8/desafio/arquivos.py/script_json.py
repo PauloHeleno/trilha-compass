@@ -14,7 +14,7 @@ job = Job(glueContext)
 job.init(args['JOB_NAME'], args)
 
 caminho_json = "s3://data-lake-do-paulo/Raw/TMDB/JSON/2024/12/30/" 
-caminho_destino = "s3://data-lake-do-paulo/Trusted/JSON/2024/12/30/"
+caminho_destino = "s3://data-lake-do-paulo/Trusted/TMDB/PARQUET/MOVIES/2024/12/30/"
 
 dados_brutos_dyf = glueContext.create_dynamic_frame.from_options(
     connection_type="s3",

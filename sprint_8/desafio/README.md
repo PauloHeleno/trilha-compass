@@ -25,7 +25,7 @@ Objetivo: Usar o Apache Spark, através do AWS Glue para integrar e padronizar d
 
 ### O script logo abaixo
 
-![código script CSV](../evidencias/print_desafio/script_csv.png)
+![código script CSV](../evidencias/print_desafio/csv_script.png)
 
 ## Agora um pouco sobre o segundo job que serve para refinar os dados JSON da camada Raw, realizando limpeza e normalização, e salvar no formato Parquet na camada Trusted
 
@@ -47,7 +47,7 @@ Objetivo: Usar o Apache Spark, através do AWS Glue para integrar e padronizar d
 
 ### Script com o código abaixo
 
-![conteúdo script json](../evidencias/print_desafio/script_json.png)
+![conteúdo script json](../evidencias/print_desafio/json_script.png)
 
 ## Depois de finalizar os jobs, executei ambos
 
@@ -57,10 +57,10 @@ Objetivo: Usar o Apache Spark, através do AWS Glue para integrar e padronizar d
 
 ## O arquivo parquet gerado a partir do CSV, na documentação do desafio não pediu particionamento
 
-![csv no bucket](../evidencias/print_desafio/csv_bucket.png)
+![csv no bucket](../evidencias/print_desafio/bucket_csv.png)
 
 ## Agora o arquivo parquet gerado do JSON, o particionamento de acordo com a data que os dados foram retirados do TMDB como pedido no desafio
 
-![json no bucket](../evidencias/print_desafio/json_bucket.png)
+![json no bucket](../evidencias/print_desafio/bucket_json.png)
 
 
