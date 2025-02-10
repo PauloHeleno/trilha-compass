@@ -78,6 +78,10 @@ Objetivo: O objetivo é criar um dashboard no AWS QuickSight para visualizar ins
 
 ![DashBoard](../evidencias/print_desafio/dash_completo.png)
 
-### Ele salvo no QuickSight:
+### Minha análise salva no QuickSight:
 
 ![Dash QuickSight](../evidencias/print_desafio/Dash_No_quick.png)
+
+### Meu DashBoard salvo no QuickSight:
+
+![Dash criado](../evidencias/print_desafio/DashBoard_criado.png)
